@@ -2,11 +2,14 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px; /
+    gap: 30px; 
 }
 
 .item-members {
     display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+    margin-bottom: 30px;
 }
 
 .item-item {
@@ -16,6 +19,7 @@
 
 .item-item a {
     text-decoration: none;
+    
 }
 
 .img-clip {
@@ -44,5 +48,4 @@
     border-radius: 10px;
     border: solid;
     padding: 4px;
-    margin: 0 auto; 
 }

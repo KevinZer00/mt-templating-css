@@ -1,3 +1,9 @@
+.item-items {
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+
 .item-members {
     display: flex;
     flex-wrap: wrap;

@@ -1,13 +1,13 @@
 .item-items {
     display: flex;
     flex-wrap: wrap;
-	justify-content: center;
+    justify-content: center;
 }
 
 .item-members {
     display: flex;
     flex-wrap: wrap;
-	justify-content: center;
+    justify-content: center;
 }
 
 .item-item {
@@ -20,7 +20,7 @@
 
 .item-item a {
     text-decoration: none;
-    
+    border: none;
 }
 
 .img-clip {

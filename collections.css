@@ -1,13 +1,8 @@
-.item-items {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
 
-.item-members {
+.items{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+	justify-content: center;
 }
 
 .item-item {

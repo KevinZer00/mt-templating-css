@@ -29,6 +29,13 @@
     transition: all 0.2s ease-in-out;
 }
 
+.img-clip img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top right;
+}
+
 .img-clip:hover {
     border-color: lightskyblue;
     transform: scale(1.08);

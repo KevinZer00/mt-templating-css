@@ -1,13 +1,5 @@
 
-/* for pages with multiple containers*/
 .items {
-    display: flex;
-    flex-wrap: wrap;
-	justify-content: center;
-}
-
-/* for pages with single containers*/
-.item-items {
     display: flex;
     flex-wrap: wrap;
 	justify-content: center;

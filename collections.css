@@ -1,5 +1,13 @@
 
-.items{
+/* for pages with multiple containers*/
+.items {
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+
+/* for pages with single containers*/
+.item-items {
     display: flex;
     flex-wrap: wrap;
 	justify-content: center;
@@ -13,13 +21,6 @@
     justify-content: center;
 }
 
-.item-items {
-    text-align: center;
-    width: 250px;
-    margin-bottom: 30px;
-    display: flex;
-    justify-content: center;
-}
 
 
 .item-item a {
